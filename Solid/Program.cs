@@ -12,7 +12,7 @@ namespace Solid
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("SOLID Principles:");
+            Console.WriteLine("Princípios S.O.L.I.D. :");
 
             var principles = new List<IPrinciple>()
             {
